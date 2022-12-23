@@ -1,5 +1,7 @@
 [web]
-system1
+serverb
+[prod]
+servera
 
 
 
