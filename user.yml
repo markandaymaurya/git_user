@@ -3,5 +3,5 @@ myusers:
     group: guests
   - name: manish
     group: manager
-  - name: greg
+  - name: raju
     group: developer
