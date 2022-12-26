@@ -4,4 +4,6 @@ myusers:
   - name: manish
     group: manager
   - name: greg
-    group: developer 
+    group: developer
+  - name: raju
+    group: developer1 
